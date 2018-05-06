@@ -41,6 +41,7 @@ h1 {
     right: 1pc;
     top: 0pc;
     display: none;
+    width:30pc;
   }
   
   #Dog2win {
@@ -48,6 +49,7 @@ h1 {
     right: 1pc;
     top: 0pc;
     display: none;
+    width: 30pc;
   }
 
   body {
@@ -56,7 +58,7 @@ h1 {
 
   .finishline {
     position: fixed;
-    right: 25pc;
+    left: 600pc;
     top: 12pc;
   }
 
